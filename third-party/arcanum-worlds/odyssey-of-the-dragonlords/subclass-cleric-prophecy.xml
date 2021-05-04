@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
   <info>
-		<update version="0.0.1">
+		<update version="0.0.2">
 			<file name="subclass-cleric-prophecy.xml" url="https://raw.githubusercontent.com/chris-velox/elements/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-cleric-prophecy.xml" />
 		</update>
 	</info>
@@ -34,7 +34,7 @@
   <element name="Domain Spells" type="Archetype Feature" source="Odyssey of the Dragonlords" id="ID_AW_OOTD_ARCHETYPE_FEATURE_PROPHECY_DOMAIN_DOMAIN_SPELLS">
     <description>
       <p>You gain domain spells at the cleric levels listed in the Forge Domain Spells table. See the Divine Domain class feature for how domain spells work.</p>
-      <h5 class="caption">FORGE DOMAIN SPELLS</h5>
+      <h5 class="caption">PROPHECY DOMAIN SPELLS</h5>
       <table>
         <thead>
           <tr><td>Cleric Level</td><td>Spells</td></tr>
